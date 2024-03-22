@@ -1,0 +1,1 @@
+            return InnerRepository.Find(key);  
